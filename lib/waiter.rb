@@ -22,5 +22,5 @@ class Waiter
       meal.watier == self
     end
   end
-  
+
 end
